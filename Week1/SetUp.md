@@ -9,5 +9,6 @@ The installation of the Flutter SDK and all necessary dependencies to set up the
 4. **License Agreements:** The `flutter doctor --android-licenses` command was executed to accept the required Google license agreements.
 5. **Verification:** A system scan was performed using the `flutter doctor` tool, confirming that the Android toolchain, Windows infrastructure, and VS Code integration are working seamlessly (with green checkmarks).
 
-## Installation Verification Screenshot
+## Installation Verification Screenshots
 <img src="images1/set_up.png" alt="Flutter Installation Screen" width="800">
+<img src="images1/hellodart.png" alt="Flutter Installation Screen" width="800">
