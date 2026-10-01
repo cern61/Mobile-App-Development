@@ -17,11 +17,11 @@
 ## 🧭 At a Glance
 
 | | Part | What I did |
-|:-:|---|---|---|
+|:-:|---|---|
 | 📖 | **Overview** | Researched native vs cross-platform, Flutter, hybrid tools, UI/UX |
 | 🛠️ | **Setup** | Installed Flutter SDK + Android Studio, verified with `flutter doctor` |
-| 🌾 | **Project 1** | Big Farm Management System in Dart | [Farm_Management.md] |
-| 🪐 | **Project 2** | Universe Observer System in Dart | [Universe_Observer.md] |
+| 🌾 | **Project 1** | Big Farm Management System in Dart |
+| 🪐 | **Project 2** | Universe Observer System in Dart |
 
 ---
 
