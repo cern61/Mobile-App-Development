@@ -8,7 +8,7 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-*Understand the why, build the environment, practice the language.*
+*Get to know fundamentals, build the environment, practice the language.*
 
 </div>
 
@@ -16,16 +16,16 @@
 
 ## 🧭 At a Glance
 
-| | Part | What I did | Link |
+| | Part | What I did |
 |:-:|---|---|---|
-| 📖 | **Theory** | Researched native vs cross-platform, Flutter, hybrid tools, UI/UX | [Overview.md](Overview.md) |
-| 🛠️ | **Setup** | Installed Flutter SDK + Android Studio, verified with `flutter doctor` | [SetUp.md](SetUp.md) |
-| 🌾 | **Project 1** | Big Farm Management System in Dart | [Farm_Management.md](Farm_Management.md) |
-| 🪐 | **Project 2** | Universe Observer System in Dart | [Universe_Observer.md](Universe_Observer.md) |
+| 📖 | **Overview** | Researched native vs cross-platform, Flutter, hybrid tools, UI/UX |
+| 🛠️ | **Setup** | Installed Flutter SDK + Android Studio, verified with `flutter doctor` |
+| 🌾 | **Project 1** | Big Farm Management System in Dart | [Farm_Management.md] |
+| 🪐 | **Project 2** | Universe Observer System in Dart | [Universe_Observer.md] |
 
 ---
 
-## 📖 Theory in 60 Seconds
+## 📖 Overview
 
 | Approach | Idea | Trade-off |
 |---|---|---|
@@ -37,19 +37,6 @@
 🎨 **UX** is how it works. **UI** is how it looks.
 
 ---
-
-## 🛠️ Setup Checklist
-
-- [x] Flutter SDK in `C:\src\flutter`
-- [x] `bin` folder added to system Path
-- [x] Android Studio + SDK Command-line Tools
-- [x] Licenses accepted (`flutter doctor --android-licenses`)
-- [x] `flutter doctor` all green ✅
-
-<div align="center">
-<img src="images1/set_up.png" alt="flutter doctor" width="48%">
-<img src="images1/hellodart.png" alt="Hello Dart" width="48%">
-</div>
 
 ---
 
@@ -64,9 +51,8 @@ Animals, plants, feeding, harvests, market value
 
 `LivingBeing → Animal → Poultry → Chicken`
 
-[📄 Read the docs](Farm_Management.md)
 
-<img src="images1/farm_management.png" alt="Farm" width="100%">
+<img src="Week1/images1/farm_management.png" alt="Farm" width="100%">
 
 </td>
 <td width="50%" align="center">
@@ -76,9 +62,8 @@ Galaxies, stars, planets, telescopes
 
 `CelestialObject → Planet → RockyPlanet`
 
-[📄 Read the docs](Universe_Observer.md)
 
-<img src="images1/universe_observer.png" alt="Universe" width="100%">
+<img src="Week1/images1/universe_observer.png" alt="Universe" width="100%">
 
 </td>
 </tr>
@@ -89,17 +74,6 @@ Galaxies, stars, planets, telescopes
 ## 🧩 Dart Concepts Covered
 
 `Variables` · `Control flow` · `Functions` · `Classes & Enums` · `Inheritance` · `Mixins` · `Interfaces` · `Async / Streams` · `Exceptions` · `Null safety` · `Generics` · `Records` · `Pattern matching` · `Extensions`
-
----
-
-## ▶️ Run It
-
-Paste a `.dart` file into **[DartPad](https://dartpad.dev)** and press **Run**, or locally:
-
-```bash
-dart run farm_management.dart
-dart run universe_observer.dart
-```
 
 ---
 
