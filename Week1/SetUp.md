@@ -10,4 +10,4 @@ The installation of the Flutter SDK and all necessary dependencies to set up the
 5. **Verification:** A system scan was performed using the `flutter doctor` tool, confirming that the Android toolchain, Windows infrastructure, and VS Code integration are working seamlessly (with green checkmarks).
 
 ## Installation Verification Screenshot
-![Flutter Installation Screen](images\setup.png)
+![Flutter Installation Screen](images/setup.png)
