@@ -19,7 +19,7 @@ The program manages a farm containing **living beings**, split into **animals** 
 
 > No external packages are required. Only `dart:async` and `dart:math` are imported.
 
-<img src="images1/farm.png" alt="Farm" width="800">
+<img src="images1/farm_management.png" alt="Farm" width="800">
 
 ---
 
