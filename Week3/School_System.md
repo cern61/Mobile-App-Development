@@ -6,23 +6,12 @@ A **Secretary** registers teachers and students, **Teachers** prepare lectures a
 
 ---
 
-## 📋 Table of Contents
-
-1. [Features](#-features)
-2. [Getting Started](#-getting-started)
-3. [How to Use](#-how-to-use)
-4. [Class Design](#-class-design)
-5. [OOP Concepts in the Code](#-oop-concepts-in-the-code)
-6. [Grading Rules](#-grading-rules)
-7. [Project Structure](#-project-structure)
-
----
-
 ## 🖥️ Sample Run
 
 <img src="images3/school1.png" alt="school" width="700">
 <img src="images3/school2.png" alt="school" width="700">
 <img src="images3/school3.png" alt="school" width="700">
+
 ---
 
 ## ✨ Features
