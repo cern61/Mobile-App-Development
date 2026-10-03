@@ -18,6 +18,13 @@ A **Secretary** registers teachers and students, **Teachers** prepare lectures a
 
 ---
 
+## 🖥️ Sample Run
+
+<img src="images3/school1.png" alt="school" width="700">
+<img src="images3/school2.png" alt="school" width="700">
+<img src="images3/school3.png" alt="school" width="700">
+---
+
 ## ✨ Features
 
 - 🗂️ **Secretary** adds teachers and students to the school
